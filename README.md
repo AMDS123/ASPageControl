@@ -1,2 +1,2 @@
 # ASPageControl
-a custom PageControl like UIPageControl
+A custom PageControl like UIPageControl
